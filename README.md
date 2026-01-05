@@ -28,6 +28,11 @@ requirements.txt - Dependencies
 2. Run all cells in `analysis.ipynb`.
 3. View generated insights and visualizations.
 
+## Visualizations
+- Category-wise expense distribution
+- Monthly expense trend over time
+
+
 ## Results
 - Category-wise expense analysis
 - Monthly expense trend visualization

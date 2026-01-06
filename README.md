@@ -31,7 +31,9 @@ requirements.txt - Dependencies
 ## Visualizations
 - Category-wise expense distribution
 - Monthly expense trend over time
-
+  
+## Dataset
+The dataset file `expenses_dataset.csv` is included in the repository root and is loaded directly in the analysis notebook.
 
 ## Results
 - Category-wise expense analysis
